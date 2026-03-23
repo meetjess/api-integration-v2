@@ -7,7 +7,7 @@ export default function Home() {
             <h2>About Valorant</h2>
             <img
               className="splash-img"
-              src="https://playvalorant.com/static/agents-group-31d7ce5a3637e45d8b25d2fd03159e6c.png"
+              src="https://i.imgur.com/HkZhsmx.png"
               alt="valorant agents"
             />
           </div>
